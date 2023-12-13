@@ -1,0 +1,7 @@
+checkpoints/*
+data/*
+filelists/*
+logs/*
+notebooks/*
+venv/*
+__pycache__
